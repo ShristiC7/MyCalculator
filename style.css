@@ -1,0 +1,44 @@
+body{
+    justify-content: center;
+    align-items: center;
+  height: 100%;
+width: 100%;
+background: #5b5a5a;
+
+ 
+}
+.heading{
+    background:grey;
+    justify-content: center;
+   text-align: center;
+color: rgb(12, 12, 12);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.box{
+    display: flex;
+    flex-direction: row;
+ justify-content: center;
+align-items: center;
+margin: 12px ;
+   margin: auto;
+  
+  
+ 
+}
+.button{
+   margin: 8px 6px;
+    padding: 20px;
+    border: 2px solid aliceblue;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 64px;
+}
+.box1{
+    background-color: orange;
+}
+.input{
+    margin: 12px;
+    padding: 9px;
+    width: 16vw;
+}
